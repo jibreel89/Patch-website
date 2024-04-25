@@ -346,6 +346,11 @@ br.clear {
 #track{
 	padding-bottom: 8%;
 }
+.content{
+	display: flex;
+    flex-wrap: wrap;
+}
+}
 .Tracking{
 	display: flex;
 }
