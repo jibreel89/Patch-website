@@ -162,12 +162,12 @@ br.clear {
 	width: 100%;
 }
 .left1 h1{
-	font-size: 36px;
+	font-size: 50px;
 	font-weight: bolder;
 	margin-bottom: 16px;
 }
 .left1 p{
-	font-size: 13px;
+	font-size: 20px;
 }
 .left1 li{
 	padding: 6% 0;
@@ -342,6 +342,9 @@ br.clear {
 	width: 20%;
     font-size: 25px;
     font-weight: bolder;
+}
+#track{
+	padding-bottom: 8%;
 }
 .Tracking{
 	display: flex;
